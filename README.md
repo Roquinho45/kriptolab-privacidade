@@ -1,4 +1,3 @@
-# kriptolab-privacidade[index.html](https://github.com/user-attachments/files/33398143/index.html)
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -50,7 +49,7 @@
 
 <h2>4. Compra do Pro e período de teste</h2>
 <ul>
-  <li>O KriptoLab é gratuito para baixar. Os recursos Pro (cofre, preenchimento automático, cifra de arquivos e backup do cofre) têm 7 dias de teste e depois exigem uma compra única dentro do app.</li>
+  <li>O KriptoLab é gratuito para baixar. Criar e editar entradas do cofre, cifrar novos arquivos e ativar o preenchimento automático fazem parte do Pro: têm 7 dias de teste e depois exigem uma compra única dentro do app. Depois do teste você continua podendo abrir e ler o cofre, exportar e restaurar backups e apagar entradas; nada do que você criou fica bloqueado.</li>
   <li>O período de teste é calculado a partir da data de instalação do app, no próprio aparelho.</li>
   <li>A compra é processada pelo <strong>Google Play</strong>, com o aplicativo da Play Store, e não pelo KriptoLab. O Google trata seus dados de pagamento conforme a política dele. O KriptoLab recebe apenas a informação de que a compra foi ou não concluída; não recebe seus dados de pagamento.</li>
 </ul>
@@ -98,7 +97,7 @@
 
 <h2>4. Pro purchase and trial</h2>
 <ul>
-  <li>KriptoLab is free to download. Pro features (vault, autofill, file encryption and vault backup) include a 7-day trial and then require a one-time in-app purchase.</li>
+  <li>KriptoLab is free to download. Creating and editing vault entries, encrypting new files and turning on autofill are Pro features: they include a 7-day trial and then require a one-time in-app purchase. After the trial you can still open and read the vault, export and restore backups, and delete entries; nothing you created is ever locked.</li>
   <li>The trial period is calculated from the app's install date, on the device itself.</li>
   <li>The purchase is processed by <strong>Google Play</strong>, through the Play Store app, not by KriptoLab. Google handles your payment data under its own policy. KriptoLab only learns whether the purchase was completed; it never receives your payment details.</li>
 </ul>
