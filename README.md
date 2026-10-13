@@ -1,1 +1,124 @@
-# kriptolab-privacidade
+# kriptolab-privacidade[index.html](https://github.com/user-attachments/files/33398143/index.html)
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KriptoLab – Política de Privacidade / Privacy Policy</title>
+<style>
+  :root { --bg:#ffffff; --fg:#1b1f24; --muted:#5b6570; --line:#d8dde3; --accent:#0b5cad; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#12161b; --fg:#e6eaee; --muted:#9aa5b1; --line:#2a323b; --accent:#6aaeff; }
+  }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { font-size:1.6rem; margin:0 0 4px; }
+  h2 { font-size:1.2rem; margin:28px 0 8px; padding-top:12px; border-top:1px solid var(--line); }
+  p, li { margin:8px 0; }
+  .muted { color:var(--muted); font-size:.9rem; }
+  nav a { color:var(--accent); margin-right:16px; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+
+<nav><a href="#pt">Português</a><a href="#en">English</a></nav>
+
+<!-- ================= PORTUGUÊS ================= -->
+<section id="pt" lang="pt-BR">
+<h1>KriptoLab – Política de Privacidade</h1>
+<p class="muted">Última atualização: 13 de outubro de 2026 · Aplicativo: KriptoLab (com.rockdev.kriptolab) · Desenvolvedor: Vanessa G C Pesce</p>
+
+<h2>Resumo</h2>
+<p>O KriptoLab não coleta, não envia e não vende dados pessoais. Tudo o que você cria no app (cofre de senhas, arquivos cifrados, textos, configurações) fica somente no seu aparelho. O app não declara a permissão de internet do Android e não tem anúncios, rastreadores ou serviços de análise.</p>
+
+<h2>1. Dados que o app não coleta</h2>
+<p>O desenvolvedor não recebe nenhum dado seu: nem nome, e-mail, localização, contatos, identificadores do aparelho, senhas, conteúdo do cofre, arquivos ou textos que você cifra. Não existe servidor do KriptoLab.</p>
+
+<h2>2. Dados guardados no seu aparelho</h2>
+<ul>
+  <li><strong>Cofre de senhas:</strong> as entradas são cifradas no aparelho com uma chave derivada da sua senha mestra. A senha mestra não é guardada em lugar nenhum; se você a esquecer, o app não consegue recuperar o cofre.</li>
+  <li><strong>Arquivos e textos cifrados:</strong> são processados localmente. O app não os envia a lugar algum.</li>
+  <li><strong>Configurações:</strong> idioma, preferências e o estado do período de teste ficam armazenados localmente.</li>
+  <li><strong>Biometria:</strong> se você ativar a digital ou o rosto, a verificação é feita pelo próprio Android. O app não recebe nem guarda dados biométricos.</li>
+</ul>
+<p>Ao desinstalar o app, os dados locais dele são apagados pelo Android. Backups do cofre só existem se você mesmo os exportar, para o local que escolher; o app não os envia para nenhum serviço.</p>
+
+<h2>3. Preenchimento automático</h2>
+<p>Se você ativar o KriptoLab como serviço de preenchimento automático do Android, o app lê, no momento do uso, o aplicativo ou site em que você está e os campos de login, apenas para oferecer a credencial correta do seu cofre. Isso é processado localmente e não é enviado nem armazenado fora do cofre. Você pode desativar o serviço a qualquer momento nas configurações do Android.</p>
+
+<h2>4. Compra do Pro e período de teste</h2>
+<ul>
+  <li>O KriptoLab é gratuito para baixar. Os recursos Pro (cofre, preenchimento automático, cifra de arquivos e backup do cofre) têm 7 dias de teste e depois exigem uma compra única dentro do app.</li>
+  <li>O período de teste é calculado a partir da data de instalação do app, no próprio aparelho.</li>
+  <li>A compra é processada pelo <strong>Google Play</strong>, com o aplicativo da Play Store, e não pelo KriptoLab. O Google trata seus dados de pagamento conforme a política dele. O KriptoLab recebe apenas a informação de que a compra foi ou não concluída; não recebe seus dados de pagamento.</li>
+</ul>
+
+<h2>5. Compartilhamento</h2>
+<p>O KriptoLab não compartilha dados com terceiros, porque não coleta dados. O único serviço externo envolvido é o Google Play, para a compra, conforme o item 4.</p>
+
+<h2>6. Crianças</h2>
+<p>O app não é direcionado a crianças e não coleta dados de ninguém, inclusive de crianças.</p>
+
+<h2>7. Seus direitos</h2>
+<p>Como o desenvolvedor não guarda dados seus, não há dados para acessar, corrigir ou excluir em servidores. Você controla tudo no próprio aparelho: pode apagar entradas, exportar backups ou desinstalar o app. Se tiver dúvidas sobre esta política, fale conosco pelo contato abaixo.</p>
+
+<h2>8. Alterações</h2>
+<p>Se esta política mudar, a nova versão será publicada nesta página com a data atualizada. Mudanças que afetem a coleta de dados serão destacadas.</p>
+
+<h2>9. Contato</h2>
+<p>vanessacpesce@gmail.com</p>
+</section>
+
+<hr style="margin:48px 0;border:0;border-top:2px solid var(--line)">
+
+<!-- ================= ENGLISH ================= -->
+<section id="en" lang="en">
+<h1>KriptoLab – Privacy Policy</h1>
+<p class="muted">Last updated: October 13, 2026 · App: KriptoLab (com.rockdev.kriptolab) · Developer: Vanessa G C Pesce</p>
+
+<h2>Summary</h2>
+<p>KriptoLab does not collect, transmit or sell personal data. Everything you create in the app (password vault, encrypted files, texts, settings) stays on your device only. The app does not declare the Android internet permission and contains no ads, trackers or analytics services.</p>
+
+<h2>1. Data the app does not collect</h2>
+<p>The developer receives none of your data: no name, email, location, contacts, device identifiers, passwords, vault contents, or files and texts you encrypt. There is no KriptoLab server.</p>
+
+<h2>2. Data stored on your device</h2>
+<ul>
+  <li><strong>Password vault:</strong> entries are encrypted on the device using a key derived from your master password. The master password is not stored anywhere; if you forget it, the app cannot recover the vault.</li>
+  <li><strong>Encrypted files and texts:</strong> processed locally. The app does not send them anywhere.</li>
+  <li><strong>Settings:</strong> language, preferences and the trial-period state are stored locally.</li>
+  <li><strong>Biometrics:</strong> if you enable fingerprint or face unlock, verification is performed by Android itself. The app neither receives nor stores biometric data.</li>
+</ul>
+<p>When you uninstall the app, Android removes its local data. Vault backups exist only if you export them yourself, to a location you choose; the app does not upload them to any service.</p>
+
+<h2>3. Autofill</h2>
+<p>If you enable KriptoLab as an Android autofill service, the app reads, at the moment of use, which app or website you are in and its login fields, solely to offer the matching credential from your vault. This is processed locally and is not sent or stored outside the vault. You can turn the service off at any time in Android settings.</p>
+
+<h2>4. Pro purchase and trial</h2>
+<ul>
+  <li>KriptoLab is free to download. Pro features (vault, autofill, file encryption and vault backup) include a 7-day trial and then require a one-time in-app purchase.</li>
+  <li>The trial period is calculated from the app's install date, on the device itself.</li>
+  <li>The purchase is processed by <strong>Google Play</strong>, through the Play Store app, not by KriptoLab. Google handles your payment data under its own policy. KriptoLab only learns whether the purchase was completed; it never receives your payment details.</li>
+</ul>
+
+<h2>5. Sharing</h2>
+<p>KriptoLab shares no data with third parties because it collects none. The only external service involved is Google Play, for the purchase, as described in section 4.</p>
+
+<h2>6. Children</h2>
+<p>The app is not directed at children and does not collect data from anyone, including children.</p>
+
+<h2>7. Your rights</h2>
+<p>Since the developer holds no data about you, there is nothing on servers to access, correct or delete. You control everything on your own device: you can delete entries, export backups or uninstall the app. If you have questions about this policy, contact us using the details below.</p>
+
+<h2>8. Changes</h2>
+<p>If this policy changes, the new version will be published on this page with an updated date. Changes affecting data collection will be highlighted.</p>
+
+<h2>9. Contact</h2>
+<p>vanessacpesce@gmail.com</p>
+</section>
+
+</main>
+</body>
+</html>
